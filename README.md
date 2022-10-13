@@ -5,5 +5,8 @@
 
 ### Image filter starter code
 
+**link to the aws elastic beanstalk environment**
+http://project2-env.eba-vphadtdt.us-east-1.elasticbeanstalk.com/
+
 **link to the endpoint url**
-http://project2-env-1.eba-fp2uudti.us-east-1.elasticbeanstalk.com/filteredImage
+http://project2-env.eba-vphadtdt.us-east-1.elasticbeanstalk.com/filteredimage
